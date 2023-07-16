@@ -6,13 +6,9 @@
     <meta name="author" content="#">
     <meta name="generator" content="Hugo 0.112.5">
     <title>Туры в Японию</title>
-
+<!--Пример фронтенда взяла с бустрапа-->
+    
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/carousel/">
-
-    
-
-    
-
 <link href="/docs/5.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 
     <!-- Favicons -->
